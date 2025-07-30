@@ -2,6 +2,8 @@
 
 A modern, feature-rich tic-tac-toe game built with C# and Windows Forms (.NET 8).
 
+Watch here on Youtube how it works : https://youtu.be/3d9T6mwMXOk 
+
 ![Game Screenshot](https://img.shields.io/badge/Platform-Windows-blue)
 ![.NET Version](https://img.shields.io/badge/.NET-8.0-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
