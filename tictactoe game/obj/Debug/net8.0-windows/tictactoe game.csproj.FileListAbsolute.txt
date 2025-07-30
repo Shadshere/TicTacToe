@@ -1,0 +1,16 @@
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\bin\Debug\net8.0-windows\tictactoe game.exe
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\bin\Debug\net8.0-windows\tictactoe game.deps.json
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\bin\Debug\net8.0-windows\tictactoe game.runtimeconfig.json
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\bin\Debug\net8.0-windows\tictactoe game.dll
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\bin\Debug\net8.0-windows\tictactoe game.pdb
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\obj\Debug\net8.0-windows\tictactoe_game.Form1.resources
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\obj\Debug\net8.0-windows\tictactoe game.csproj.GenerateResource.cache
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\obj\Debug\net8.0-windows\tictactoe game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\obj\Debug\net8.0-windows\tictactoe game.AssemblyInfoInputs.cache
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\obj\Debug\net8.0-windows\tictactoe game.AssemblyInfo.cs
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\obj\Debug\net8.0-windows\tictactoe game.csproj.CoreCompileInputs.cache
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\obj\Debug\net8.0-windows\tictactoe game.dll
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\obj\Debug\net8.0-windows\refint\tictactoe game.dll
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\obj\Debug\net8.0-windows\tictactoe game.pdb
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\obj\Debug\net8.0-windows\tictactoe game.genruntimeconfig.cache
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\obj\Debug\net8.0-windows\ref\tictactoe game.dll

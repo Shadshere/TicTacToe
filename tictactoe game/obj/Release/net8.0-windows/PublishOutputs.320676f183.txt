@@ -1,0 +1,5 @@
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\bin\Release\net8.0-windows\publish\tictactoe game.exe
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\bin\Release\net8.0-windows\publish\tictactoe game.dll
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\bin\Release\net8.0-windows\publish\tictactoe game.deps.json
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\bin\Release\net8.0-windows\publish\tictactoe game.runtimeconfig.json
+C:\Users\amirul\OneDrive\Documents\Visual programming\tictactoe game\tictactoe game\bin\Release\net8.0-windows\publish\tictactoe game.pdb
